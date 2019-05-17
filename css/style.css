@@ -1,0 +1,10 @@
+footer{
+    background-color: #009CDF;
+    color: floralwhite;
+    font-size: 1.5em;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;            /* Footer height */
+
+}
